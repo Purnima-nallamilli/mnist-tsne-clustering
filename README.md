@@ -11,6 +11,13 @@ We use:
 
 ---
 
+## 📸 Sample Output
+
+Below is a sample visualization showing the 2D t-SNE clustering of handwritten digits:
+
+![t-SNE Clustering Output](newplot.png)
+
+
 ## 🧠 How the Project Works (Simple Explanation)
 1. Each digit image is converted into numerical pixel values.
 2. These high-dimensional values are reduced to **2D** using **t-SNE**.
