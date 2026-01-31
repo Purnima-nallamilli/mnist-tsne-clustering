@@ -1,8 +1,8 @@
-pandas
 numpy
+pandas
 matplotlib
 scikit-learn
-google-generativeai
-python-dotenv
+plotly
 jupyter
 ipykernel
+
